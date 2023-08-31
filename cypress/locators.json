@@ -1,0 +1,128 @@
+{
+
+    "TRUS_3983_locators":{
+
+        "options":"div[class='header_logo__QrTnb styles_padding-x__ryzp7'] i:nth-child(1)",
+        "aanvragen":"div[class='mobileHeader_items__70Cv1'] a[title='aanvragen']",
+        "Begindeuitleg":"body > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(7) > div:nth-child(1) > button:nth-child(1)",
+        "verder":"div[class='styles_row__yQ48W styles_end-xs__-qRXX styles_middle-xs__ciQuE'] button[title='Verder']",
+        "aanvraag_reclameren":".styles_end-xs__-qRXX > .styles_padding-x__ryzp7 > .button_btnReset__TqNNw",
+        "Iksnaphet":"button[title='Ik snap het!']"
+
+    },
+
+
+    "Homepagelocator":{
+        
+        
+        "cookieBtn":"a#btn_cookies_accept_all",
+        "dienst":":nth-child(1) > .root__bigPicker__2ba7b284 > .root__inputField__f8583b > .label__inputField__f8583b",
+        "locatie":":nth-child(2) > .root__bigPicker__2ba7b284 > .root__inputField__f8583b > .label__inputField__f8583b",
+        "zoeken":":nth-child(1) > a > .btnReset__button__5b079537",
+        "FirstResultElement":"#_pro_smeets-installatietechniek > .rootCard__proListItemNewest__465d0f9 > a > .row__proListItemNewest__465d0f9 > .buttonCol__proListItemNewest__465d0f9 > .buttonRow__proListItemNewest__465d0f9 > :nth-child(2) > .btnReset__button__5b079537",
+        "waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "Reparen":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "duration":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "compareprice":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238 > div",
+        "NextQuestion":".btnReset__button__5b079537 > .large__proRequestForm__cb656f09",
+        "AdditionalInfoField":".input__inputField__f8583b",
+        "Email":".input__inputField__f8583b",
+        "FurtherBtn":".btnReset__button__5b079537.default__button__5b079537",
+        "Name":".input__inputField__f8583b",
+        "Telephone":"input[placeholder='Telefoonnummer']"
+                
+    },
+
+
+    "Scenario2_locators":{
+        "category":":nth-child(1) > .root__serviceBlock__a0759bbf > .a__a__f9d4c274 > .bottom__serviceBlock__a0759bbf > .serviceName__serviceBlock__a0759bbf",
+        "FirstResultElement":"#_pro_sterenborg-schilder-en-vastgoedonderhoud > .rootCard__proListItemNewest__465d0f9 > a > .row__proListItemNewest__465d0f9 > .buttonCol__proListItemNewest__465d0f9 > .buttonRow__proListItemNewest__465d0f9 > :nth-child(2) > .btnReset__button__5b079537",
+        "place":"//div[@class='before__inputField__f8583b ']",
+        "Further":".sendRow__proRequestForm__cb656f09 > .padding-x__styles__87558282",
+        "PageResult":":nth-child(1) > label > .input__RadioCheckboxItemWithIcon__b108af27 > .root__radioIcon__172b8238",
+        "dimensions_options":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "Verder":"//button[@class='btnReset__button__5b079537 default__button__5b079537    ']",
+        "minder_dan_20m":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "ouderdan2jaar":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238 > div",
+        "wanneer1":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "fotos_nee":":nth-child(2) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce2_AdditionalInfoField":".input__inputField__f8583b",
+        "sce2_Email":".input__inputField__f8583b",
+        "sce2_FurtherBtn":".btnReset__button__5b079537.default__button__5b079537",
+        "sce2_Name":".input__inputField__f8583b",
+        "sce2_Telephone":"input[placeholder='Telefoonnummer']",
+        "sce2_NextQuestion":".btnReset__button__5b079537 > .large__proRequestForm__cb656f09"
+        
+    },
+
+    "Scenario3_locators":{
+        "sce3_waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce3_firstresultelement":"#_pro_smeets-installatietechniek > .rootCard__proListItemNewest__465d0f9 > a > .row__proListItemNewest__465d0f9 > .buttonCol__proListItemNewest__465d0f9 > .buttonRow__proListItemNewest__465d0f9 > :nth-child(2) > .btnReset__button__5b079537 > .quoteButtonText__ctaButton__6fbca880 > .hideSmaller__ctaButton__6fbca880",
+        "waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce3_Reparen":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "sce3_duration":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce3_compareprice":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238 > div",
+        "sce3_NextQuestion":".btnReset__button__5b079537 > .large__proRequestForm__cb656f09",
+        "sce3_AdditionalInfoField":".input__inputField__f8583b",
+        "sce3_Email":".input__inputField__f8583b",
+        "sce3_FurtherBtn":".btnReset__button__5b079537.default__button__5b079537",
+        "sce3_Name":".input__inputField__f8583b",
+        "sce3_Telephone":"input[placeholder='Telefoonnummer']"
+
+    },
+
+
+    "Scenario4_locators":{
+        "sce4_waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "profile":"#_pro_smeets-installatietechniek > .rootCard__proListItemNewest__465d0f9 > a > .row__proListItemNewest__465d0f9 > .avatar__proAvatar__2b827670 > img",
+        "sce4_getquote":"//button[text() = 'Ontvang prijsopgave']"
+        
+
+    },
+
+
+    "Scenario5_locators":{
+        "sce5_waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "compareprice":"//div[contains(@class,'comparePriceButton__proList__9dbb8d31 itemWrapper__proList__9dbb8d31 intermediate__proList__9dbb8d31 lastItem__proList__9dbb8d31')]//div//button[contains(@class,'')][normalize-space()='Vergelijk prijsopgaven']",
+        "sce5_firstresultelement":"#_pro_smeets-installatietechniek > .rootCard__proListItemNewest__465d0f9 > a > .row__proListItemNewest__465d0f9 > .avatar__proAvatar__2b827670 > img",
+        "ontvang_prijsopgave":"body > div:nth-child(4) > div:nth-child(5) > div:nth-child(4) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > button:nth-child(1)",
+        "waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce5_Reparen":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "sce5_duration":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce5_compareprice":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238 > div",
+        "sce5_NextQuestion":".btnReset__button__5b079537 > .large__proRequestForm__cb656f09",
+        "sce5_AdditionalInfoField":".input__inputField__f8583b",
+        "sce5_Email":".input__inputField__f8583b",
+        "sce5_FurtherBtn":".btnReset__button__5b079537.default__button__5b079537",
+        "sce5_Name":".input__inputField__f8583b",
+        "sce5_Telephone":"input[placeholder='Telefoonnummer']"
+
+    },
+
+
+    "Scenario6_locators":{
+        "sce6_category":":nth-child(1) > .root__serviceBlock__a0759bbf > .a__a__f9d4c274 > .bottom__serviceBlock__a0759bbf > .serviceName__serviceBlock__a0759bbf",
+        "sce6_getquote":".cta1__profilePage__1d2b765f > .root__miniWizard__38e860f6 > :nth-child(1) > :nth-child(2) > .btnReset__button__5b079537",
+        "sce6_place":"//div[@class='before__inputField__f8583b ']",
+        "sce6_Further":".sendRow__proRequestForm__cb656f09 > .padding-x__styles__87558282",
+        "sce6_waterleiding":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce6_Reparen":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238",
+        "sce6_duration":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce6_compareprice":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6 > .root__radioIcon__172b8238 > div",
+        "ja":":nth-child(1) > .item__RadioCheckboxItem__25b1c9d6",
+        "sce6_NextQuestion":".btnReset__button__5b079537 > .large__proRequestForm__cb656f09",
+        "sce6_AdditionalInfoField":".input__inputField__f8583b",
+        "sce6_Email":".input__inputField__f8583b",
+        "verder":":nth-child(2) > .btnReset__button__5b079537",
+        "sce6_FurtherBtn":".btnReset__button__5b079537.default__button__5b079537",
+        "sce6_Name":".input__inputField__f8583b",
+        "sce6_Telephone":"input[placeholder='Telefoonnummer']"
+        
+    }
+
+
+    
+}
+
+
+
