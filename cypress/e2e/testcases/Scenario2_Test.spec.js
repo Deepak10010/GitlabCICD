@@ -18,12 +18,13 @@ describe("Testing the Scenario 2 ",()=> {
 
       beforeEach(()=>{
         
-        cy.visit("http://localhost:3000/") 
+        cy.visit("http://trustoo.nl");
         sce_2.clickCookieBtn()   
         
         cy.wait(10000);
 
     })   
+
 
 
     it('Testing Scenario 2', () => {

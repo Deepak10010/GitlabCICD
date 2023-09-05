@@ -1,14 +1,17 @@
-# Use the official Cypress base image
-FROM cypress/included:9.2.0
+# Use the official Cypress Docker image
+FROM cypress/included:8.1.0
 
 # Set the working directory
-WORKDIR /e2e
+WORKDIR /app
 
-# Copy your tests, locators, and any other necessary files or directories
-COPY . .
+# Copy package.json and package-lock.json
+COPY package*.json ./
 
-# Install any additional dependencies
+# Install dependencies
 RUN npm install
 
-# Command to run your tests
-CMD ["cypress", "run"]
+# Copy the rest of the app's source code
+COPY . .
+
+# Run Cypress tests
+CMD ["npm", "test"]
